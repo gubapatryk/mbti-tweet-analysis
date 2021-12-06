@@ -5,7 +5,7 @@ Projekt czteroosobowy realizowany w semestrze 2021Z w ramach przedmiotu Wprowadz
 Celem projektu było stworzenie modelu klasyfikującego typ osobowości MBTI na podstawie krótkich wypowiedzi z serwisów społecznościowych oraz utworzenie prostej aplikacji webowej umożliwiającej korzystanie z modelu użytkownikowi.
 
 ## Diagram rozwiązania
-![Diagram](https://raw.githubusercontent.com/gubapatryk/mbti-tweet-analysis/main/diagram.png)
+![Diagram](https://raw.githubusercontent.com/gubapatryk/mbti-tweet-analysis/master/diagram.png)
 
 ## Film z demo działania rozwiązania
 
@@ -13,7 +13,7 @@ Celem projektu było stworzenie modelu klasyfikującego typ osobowości MBTI na 
 
 ## Zespół
 [Patryk Guba](https://github.com/gubapatryk)  
-[Joanna Koła](https://github.com/Jannixen)
+[Joanna Koła](https://github.com/Jannixen)   
 [Maxymilian Kowalski](https://github.com/maxxx958)  
 [Monika Kusiak](https://github.com/KitsunesWrath)
 
