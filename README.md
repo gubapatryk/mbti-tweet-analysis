@@ -1,5 +1,8 @@
 # mbti-tweet-analysis
 
+##LIVE APP
+mbti-app.azurefd.net/
+
 Projekt czteroosobowy realizowany w semestrze 2021Z w ramach przedmiotu Wprowadzenie do aplikacji i rozwiązań opartych o Sztuczną Inteligencję i Microsoft Azure.  
 
 Celem projektu było stworzenie modelu klasyfikującego typ osobowości MBTI na podstawie krótkich wypowiedzi z serwisów społecznościowych oraz utworzenie prostej aplikacji webowej umożliwiającej korzystanie z modelu użytkownikowi.
