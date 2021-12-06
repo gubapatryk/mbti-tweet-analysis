@@ -32,3 +32,4 @@ Po wprowadzeniu wiadomości, tekst jest przekazywany do modelu, który dokonuje 
  - Azure Front Door - zabezpieczenie aplikacji webowej przed atakami czy nadużyciami
  - Azure Container Instances - środowisko uruchomieniowe modelu w pierwotnej wersji
  - Linux App Service - środowisko uruchomieniowe modelu oraz aplikacji webowej (zastąpiło podejście z Azure Container Instances w finalnej wersji)
+ - xgboost - biblioteka open source oparta na gradientowym podbijaniu (ang. gradient boosting) drzew klasyfikujących
