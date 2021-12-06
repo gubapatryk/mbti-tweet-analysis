@@ -1,6 +1,5 @@
 # mbti-tweet-analysis
 
-## LIVE APP
 https://mbti-app.azurefd.net
 
 Projekt czteroosobowy realizowany w semestrze 2021Z w ramach przedmiotu Wprowadzenie do aplikacji i rozwiązań opartych o Sztuczną Inteligencję i Microsoft Azure.  
