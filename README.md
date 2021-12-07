@@ -35,3 +35,9 @@ Po wprowadzeniu wiadomości, tekst jest przekazywany do modelu, który dokonuje 
  - Azure Container Instances - środowisko uruchomieniowe modelu w pierwotnej wersji
  - Linux App Service - środowisko uruchomieniowe modelu oraz aplikacji webowej (zastąpiło podejście z Azure Container Instances w finalnej wersji)
  - xgboost - biblioteka open source oparta na gradientowym podbijaniu (ang. gradient boosting) drzew klasyfikujących
+
+## Źródła danych 
+
+https://zenodo.org/record/1323873
+
+https://www.kaggle.com/datasnaek/mbti-type
